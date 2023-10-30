@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ArraysCodingSample.cpp">
+    <ClCompile Include="SalesArrayApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
